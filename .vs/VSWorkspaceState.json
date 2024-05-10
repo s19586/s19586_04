@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\WebApplication2",
+    "\\WebApplication2\\WebApplication2",
+    "\\WebApplication2\\WebApplication2\\bin",
+    "\\WebApplication2\\WebApplication2\\Controllers",
+    "\\WebApplication2\\WebApplication2\\Dto",
+    "\\WebApplication2\\WebApplication2\\Exceptions",
+    "\\WebApplication2\\WebApplication2\\Properties",
+    "\\WebApplication2\\WebApplication2\\Repositories",
+    "\\WebApplication2\\WebApplication2\\Services"
+  ],
+  "SelectedNode": "\\WebApplication2\\WebApplication2\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}
